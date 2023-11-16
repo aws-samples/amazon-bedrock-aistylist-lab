@@ -1,3 +1,4 @@
+![Alt text](aistylist/images/AIStylist.png?raw=true "AI Stylist Lab")
 # Amazon Bedrock AI Stylist lab
 
 ## Introduction
